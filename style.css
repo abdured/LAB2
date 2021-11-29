@@ -5,7 +5,6 @@ body{
 .header{
 	font-family:Verdana,Arial Black,serif;
 	font-size: 20px;
-	font-weight: 5px;
 	color:rgb(18, 113, 222) ;
 }
 .spanclass{
@@ -20,9 +19,6 @@ body{
 }
 #italic{
 	font-style: italic;
-}
-h1,h2{
-	background-image: src();
 }
 a{
 	text-decoration: none;
